@@ -9,8 +9,6 @@ export default defineNuxtConfig({
     configPath: 'tailwindcss.config.ts',
   },
 
-
-
   pwa: {
     manifest: {
       "name": "poke ayam",
